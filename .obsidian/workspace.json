@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "32b43f5ac117e5a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf08f424956c156a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "298ee957aa4c006d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Proy_Entrg1_ER_Museo.canvas",
+                "viewState": {
+                  "x": -390,
+                  "y": -405,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Proy_Entrg1_ER_Museo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c04adef5e218d6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b1238ef5b9d436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7184500a00dd878f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "00184d644d31fc91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "7f0fb1cda25a689b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9efff3856dd0d41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "37cf6920f2af0932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2103b45530d5b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ProyectoSBD_202525_SDB1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de ProyectoSBD_202525_SDB1"
+            }
+          },
+          {
+            "id": "6514da702222ca20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ProyectoSBD_202525_SDB1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ProyectoSBD_202525_SDB1"
+            }
+          },
+          {
+            "id": "2aef1145f5726e3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "eb0ebe2ab45b7cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ProyectoSBD_202525_SDB1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de ProyectoSBD_202525_SDB1"
+            }
+          },
+          {
+            "id": "1adda8d817e424f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "298ee957aa4c006d",
+  "lastOpenFiles": [
+    "Proy_Entrg1_ER_RRHH.canvas",
+    "Proy_Entrg1_ER_Museo.canvas",
+    "proySBD202525estSBD1.pdf",
+    "ProyectoSBD_202525_SDB1.md",
+    "Proy_Entrg1_ER_AdministraciónRRHH.md",
+    "Sin título 1.md",
+    "Proyecto.canvas",
+    "Proy_Entrg1_ER_P1.md",
+    "Planificacion y entregas del proyecto.md",
+    "Primera iteración.md",
+    "[[proySBD202525estSBD1.pdf.md",
+    "Bienvenido.md"
+  ]
+}

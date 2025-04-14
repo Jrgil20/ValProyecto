@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"81c5ea936fb27f69","type":"file","file":"proySBD202525estSBD1.pdf","x":-200,"y":-600,"width":400,"height":400},
+		{"id":"2c1c0496b8b22a38","type":"file","file":"ProyectoSBD_202525_SDB1.md","x":-200,"y":-80,"width":400,"height":400},
+		{"id":"d054644317c94e0e","x":-200,"y":440,"width":400,"height":400,"type":"file","file":"Planificacion y entregas del proyecto.md"}
+	],
+	"edges":[
+		{"id":"49de306e444d0c31","fromNode":"81c5ea936fb27f69","fromSide":"right","toNode":"2c1c0496b8b22a38","toSide":"right"},
+		{"id":"19808a9c2d72af17","fromNode":"2c1c0496b8b22a38","fromSide":"left","toNode":"d054644317c94e0e","toSide":"left"}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8974a944159489d2","type":"text","text":"Administración general del Museo \n","x":-720,"y":-1020,"width":345,"height":70},
+		{"id":"23cfb688761e4431","type":"text","text":"- [ ] Mantenimiento de la información general – estructura organizacional y física. \n- [ ]  Cálculos de ranking \n- [ ] Administración de obras de arte y colecciones \n- [ ] Planeación y ejecución de Exposiciones especiales/Eventos variados \n- [ ] Administración de ingresos – específicamente generación de tickets de admisión","x":-720,"y":-900,"width":660,"height":180},
+		{"id":"5c89488eb923970d","x":-680,"y":-540,"width":360,"height":200,"type":"text","text":"### **Museos:**\nNombre \nfecha de fundación\nInstitución (pública o privada)\nFines de lucro (si / no)\n"},
+		{"id":"3e731abf20683abc","x":-680,"y":-300,"width":250,"height":60,"type":"text","text":"### Trabajadores"},
+		{"id":"fe805fc5bdd97b31","x":-200,"y":-540,"width":250,"height":60,"type":"text","text":"### Colecciones "},
+		{"id":"d76925fccea0ea4b","x":-200,"y":-340,"width":250,"height":60,"type":"text","text":"### obra"}
+	],
+	"edges":[
+		{"id":"c6280a4a522d0c76","fromNode":"8974a944159489d2","fromSide":"left","toNode":"23cfb688761e4431","toSide":"left"},
+		{"id":"f43b64b522180192","fromNode":"5c89488eb923970d","fromSide":"left","toNode":"3e731abf20683abc","toSide":"left"},
+		{"id":"c8644dd63783cf2c","fromNode":"5c89488eb923970d","fromSide":"right","toNode":"fe805fc5bdd97b31","toSide":"left"},
+		{"id":"20a513a0eb0c2fb6","fromNode":"fe805fc5bdd97b31","fromSide":"bottom","toNode":"d76925fccea0ea4b","toSide":"top"}
+	]
+}

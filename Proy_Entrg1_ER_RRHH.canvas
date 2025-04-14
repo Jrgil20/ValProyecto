@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"73e64d7951e32151","type":"text","text":"Administración de RRHH ","x":-900,"y":-360,"width":250,"height":60},
+		{"id":"4b9004b0e7a9e4f8","type":"text","text":"- [ ] registro de empleados\n- [ ] mantenimiento de las historias de trabajo; asignaciones especiales – programa de mantenimiento de obras de arte por personal especializado;\n- [ ] asignaciones de vigilancia y mantenimiento de instalaciones físicas; \n- [ ] cualquier otra actividad derivada de lo planteado en el enunciado.","x":-900,"y":-240,"width":400,"height":280}
+	],
+	"edges":[
+		{"id":"0a7536cf76f05bd3","fromNode":"73e64d7951e32151","fromSide":"left","toNode":"4b9004b0e7a9e4f8","toSide":"left"}
+	]
+}
