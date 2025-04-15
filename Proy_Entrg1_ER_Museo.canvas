@@ -2,12 +2,13 @@
 	"nodes":[
 		{"id":"8974a944159489d2","type":"text","text":"Administración general del Museo \n","x":-720,"y":-1020,"width":345,"height":70},
 		{"id":"23cfb688761e4431","type":"text","text":"- [ ] Mantenimiento de la información general – estructura organizacional y física. \n- [ ]  Cálculos de ranking \n- [ ] Administración de obras de arte y colecciones \n- [ ] Planeación y ejecución de Exposiciones especiales/Eventos variados \n- [ ] Administración de ingresos – específicamente generación de tickets de admisión","x":-720,"y":-900,"width":660,"height":180},
-		{"id":"7537d172eece5e15","x":-1020,"y":-680,"width":250,"height":60,"type":"text","text":" Cálculos de ranking "},
-		{"id":"158f612821199cc3","x":-1280,"y":-510,"width":510,"height":314,"type":"text","text":"#### ranking \n Un museo tiene más ranking mientras más tiempo permanezcan sus recursos humanos en la institución (museos con mayor rotación de personal son menos cotizados). \n \n En función de lo anterior, el público que busque información relevante de un museo debería saber su ranking con respecto a los demás museos de su mismo país y ranking mundial \n \n las medidas necesarias para asignar ese ranking son: rotación de personal3 y volumen de visitas anual. Por supuesto los directores de los museos y los empleados especializados utilizarán esos resultados para apoyar sus decisiones tanto operacionales como estratégicas."},
+		{"id":"7537d172eece5e15","type":"text","text":" Cálculos de ranking ","x":-1020,"y":-680,"width":250,"height":60},
+		{"id":"158f612821199cc3","type":"text","text":"#### ranking \n Un museo tiene más ranking mientras más tiempo permanezcan sus recursos humanos en la institución (museos con mayor rotación de personal son menos cotizados). \n \n En función de lo anterior, el público que busque información relevante de un museo debería saber su ranking con respecto a los demás museos de su mismo país y ranking mundial \n \n las medidas necesarias para asignar ese ranking son: rotación de personal3 y volumen de visitas anual. Por supuesto los directores de los museos y los empleados especializados utilizarán esos resultados para apoyar sus decisiones tanto operacionales como estratégicas.","x":-1280,"y":-510,"width":510,"height":314},
 		{"id":"5c89488eb923970d","type":"text","text":"### **Museos:**\nNombre \nfecha de fundación\nInstitución (pública o privada)\nFines de lucro (si / no)\n","x":-515,"y":-553,"width":360,"height":200},
 		{"id":"3e731abf20683abc","type":"text","text":"### Trabajadores","x":-515,"y":-313,"width":250,"height":60},
 		{"id":"fe805fc5bdd97b31","type":"text","text":"### Colecciones ","x":-35,"y":-553,"width":250,"height":60},
-		{"id":"d76925fccea0ea4b","type":"text","text":"### obra","x":-35,"y":-353,"width":250,"height":60}
+		{"id":"d76925fccea0ea4b","type":"text","text":"### obra","x":-35,"y":-353,"width":250,"height":60},
+		{"id":"b2748f864f1b4afa","type":"text","text":"#### artista","x":265,"y":-483,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c6280a4a522d0c76","fromNode":"8974a944159489d2","fromSide":"left","toNode":"23cfb688761e4431","toSide":"left"},
@@ -15,6 +16,7 @@
 		{"id":"c8644dd63783cf2c","fromNode":"5c89488eb923970d","fromSide":"right","toNode":"fe805fc5bdd97b31","toSide":"left"},
 		{"id":"20a513a0eb0c2fb6","fromNode":"fe805fc5bdd97b31","fromSide":"bottom","toNode":"d76925fccea0ea4b","toSide":"top"},
 		{"id":"bde4fbab32aa1b75","fromNode":"23cfb688761e4431","fromSide":"left","toNode":"7537d172eece5e15","toSide":"top"},
-		{"id":"873cbb49610dc67c","fromNode":"7537d172eece5e15","fromSide":"bottom","toNode":"158f612821199cc3","toSide":"top"}
+		{"id":"873cbb49610dc67c","fromNode":"7537d172eece5e15","fromSide":"bottom","toNode":"158f612821199cc3","toSide":"top"},
+		{"id":"d0624d7d02d59824","fromNode":"b2748f864f1b4afa","fromSide":"left","toNode":"d76925fccea0ea4b","toSide":"top"}
 	]
 }

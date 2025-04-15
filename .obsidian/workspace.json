@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Proy_Entrg1_ER_Museo.canvas",
+                "file": "Proyecto.canvas",
                 "viewState": {
-                  "x": -390,
-                  "y": -405,
-                  "zoom": 0
+                  "x": 414.2886421595259,
+                  "y": 1853.9329900902012,
+                  "zoom": -2.3333333333333326
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Proy_Entrg1_ER_Museo"
+              "title": "Proyecto"
             }
           }
         ]
@@ -184,13 +184,15 @@
   },
   "active": "298ee957aa4c006d",
   "lastOpenFiles": [
+    "ProyectoSBD_202525_SDB1_copiaE1.md",
+    "Proyecto.canvas",
+    "ProyectoSBD_202525_SDB1.md",
+    "proySBD202525estSBD1.pdf",
+    "Pintura.png",
     "Proy_Entrg1_ER_RRHH.canvas",
     "Proy_Entrg1_ER_Museo.canvas",
-    "proySBD202525estSBD1.pdf",
-    "ProyectoSBD_202525_SDB1.md",
     "Proy_Entrg1_ER_AdministraciónRRHH.md",
     "Sin título 1.md",
-    "Proyecto.canvas",
     "Proy_Entrg1_ER_P1.md",
     "Planificacion y entregas del proyecto.md",
     "Primera iteración.md",
